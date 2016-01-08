@@ -1,0 +1,64 @@
+<data>
+<road name="二七大桥上行">
+<point type="entry">114.364923,30.619052</point>
+<point type="curve">114.365210,30.619083</point>
+<point type="curve">114.365821,30.619052</point>
+<point type="curve">114.366567,30.619029</point>
+<point type="curve">114.367294,30.619355</point>
+<point type="curve">114.367519,30.619829</point>
+<point type="curve">114.367429,30.620311</point>
+<point type="curve">114.367446,30.619603</point>
+<point type="curve">114.367509,30.619875</point>
+<point type="curve">114.367473,30.620108</point>
+<point type="curve">114.367433,30.620318</point>
+<point type="curve">114.367298,30.620582</point>
+<point type="curve">114.367240,30.620679</point>
+<point type="quit" >114.367114,30.620881</point>
+</road>
+<road name="二七大桥下行">
+<point type="entry">114.367186,30.619855</point>
+<point type="curve">114.367186,30.619855</point>
+<point type="curve">114.367213,30.619591</point>
+<point type="curve">114.367105,30.619366</point>
+<point type="curve">114.366836,30.619164</point>
+<point type="curve">114.366458,30.619148</point>
+<point type="curve">114.366126,30.619327</point>
+<point type="curve">114.366009,30.619513</point>
+<point type="curve">114.365991,30.619731</point>
+<point type="quit" >114.366072,30.619894</point>
+</road>
+<road name="北京A">
+<point type="entry">116.443453,39.906723</point>
+<point type="curve">116.443453,39.906723</point>
+<point type="curve">116.444064,39.906876</point>
+<point type="curve">116.444746,39.906882</point>
+<point type="curve">116.445348,39.906654</point>
+<point type="curve">116.445591,39.906211</point>
+<point type="quit" >116.445375,39.905859</point>
+</road>
+<road name="北京B">
+<point type="entry">116.417061,39.955460</point>
+<point type="curve">116.414941,39.955488</point>
+<point type="curve">116.416701,39.955377</point>
+<point type="curve">116.419648,39.955349</point>
+<point type="curve">116.422738,39.955515</point>
+<point type="curve">116.425289,39.955626</point>
+<point type="quit" >116.428056,39.955681</point>
+</road>
+<road name="档下冲">
+<point type="entry">113.490736,27.102339</point>
+<point type="curve">113.491104,27.102774</point>
+<point type="curve">113.491589,27.103280</point>
+<point type="curve">113.492092,27.103803</point>
+<point type="curve">113.492245,27.103996</point>
+<point type="curve">113.492685,27.104173</point>
+<point type="curve">113.493296,27.104349</point>
+<point type="curve">113.493844,27.104317</point>
+<point type="curve">113.494751,27.103972</point>
+<point type="curve">113.495326,27.103586</point>
+<point type="curve">113.495326,27.103586</point>
+<point type="curve">113.495955,27.102621</point>
+<point type="curve">113.496611,27.102717</point>
+<point type="quit ">113.496826,27.102331</point>
+</road>
+</data>

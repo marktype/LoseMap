@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_text_tiny">5px</dimen>    
+    <dimen name="menu_text_small">10px</dimen>
+    <dimen name="menu_text_middle">15px</dimen>
+    <dimen name="menu_text_large">20px</dimen>
+    <dimen name="menu_text_super">25px</dimen>    
+</resources>

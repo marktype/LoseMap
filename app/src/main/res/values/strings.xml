@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">vehicle</string>
+    <string name="menu_navi">启动导航</string>
+    <string name="title_activity_vehicle">menu settings</string>
+    <string name="vehicle_menu_view1">车身参数</string>
+    <string name="vehicle_text_mass">总质量(kg)  </string>
+    <string name="vehicle_text_sprung">簧载质量(kg)</string>
+    <string name="vehicle_text_view2">悬架参数</string>
+    <string name="vehicle_text_track">轮距(m)    </string>
+    <string name="vehicle_text_view3">轴距(m)    </string>
+    <string name="vehicle_text_roll">质心至倾斜中心距离(m)</string>
+    <string name="vehicle_text_height">质心高度(m)</string>
+    <string name="vehicle_text_suspension">悬架侧倾斜度(N·m/rad)</string>
+    <string name="vehicle_text_view4">悬架阻尼系数(N·m/rad)</string>
+
+</resources>
